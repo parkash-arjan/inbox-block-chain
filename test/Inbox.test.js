@@ -46,7 +46,7 @@ describe('Inbox Contract' ,()=>{
 });
 
 
-/*this code was added to test mocha installation*//
+/*this code was added to test mocha installation*/
 /*
 class Car{
 
