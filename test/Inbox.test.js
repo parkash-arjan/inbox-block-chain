@@ -25,7 +25,7 @@ beforeEach( async ()=>{
 
 	inbox.setProvider(provider);	
 } );
-
+ 
 describe('Inbox Contract' ,()=>{
 
 	it('deploys a contract',()=>{	
